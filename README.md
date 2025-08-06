@@ -72,10 +72,12 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 ---
 
 ## ✅ Conclusion
-- **XGBoost Regressor** was the best-performing model with an R² score of **0.89** and the lowest RMSE.
-- Regularization (Lasso/Ridge) did not significantly outperform Linear Regression.
-- **Key features:** Area, State, and Crop type were the most influential.
-- Clear seasonal and state-wise patterns were observed in crop production.
+- **XGBoost Regressor** was the best-performing model with an R² score of **0.945** and the lowest RMSE.
+- - Regularization (Lasso/Ridge) did not significantly improve results compared to Linear Regression.
+- Top 5 crops by production: **Coconut**, **Sugarcane**, **Rice**, **Wheat**, **Potato**.
+- Highest production seen in states: **Kerela**, **Tamil Nadu**, **Karnataka**, **Andhara Pradesh**, **West Bemgal**.
+-  Seasonal trend shows crops cultivated whole year leads in overall production while Kharif and Rabi come after it.
+
 
 ---
 
