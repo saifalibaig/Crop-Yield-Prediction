@@ -8,7 +8,7 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 ---
 
 ## 📊 Dataset
-- **Source:** [Agriculture Crops Production in India - Kaggle](https://www.kaggle.com/datasets/srinivas1/agricuture-crops-production-in-india)
+- **Source:** [Agriculture Crops Production in India - Kaggle](https://www.kaggle.com/datasets/pyatakov/india-agriculture-crop-production)
 - **Rows:** 345,407  
 - **Columns:** 10  
 - **Target Variable:** `Yield`
