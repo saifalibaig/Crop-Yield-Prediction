@@ -15,13 +15,14 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 
 ### Key Features:
 - `State_Name` – State of cultivation  
-- `District_Name` – District of cultivation  
-- `Crop_Year` – Year of cultivation  
-- `Season` – Crop season  
-- `Crop` – Type of crop  
-- `Area` – Cultivation area (in hectares)  
-- `Production` – Crop production (target variable)  
-
+- **State:** Name of the state
+- **District:** Name of the district
+- **Season:** Season of cultivation
+- **Crop:** Type of crop grown
+- **Year:** Year of cultivation
+- **Area:** Cultivation area (in hectares)
+- **Production:** Total crop production 
+- **Yield:** `Target Variable`
 ---
 
 ## ✅ Project Workflow
