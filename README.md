@@ -37,6 +37,8 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
    - Top crops by production
    - District-wise and season-wise crop production
 3. **Data Preprocessing**
+   - Imputation using SimpleImputer
+   - Cardinality Calculation for Categorical Variables
    - One-hot encoding for low-cardinality variables
    - Frequency encoding for high-cardinality variables
 4. **Model Development**
