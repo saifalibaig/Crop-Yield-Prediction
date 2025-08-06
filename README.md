@@ -1,7 +1,7 @@
 # 🌾 Crop Yield Prediction using Machine Learning
 
 ## 📌 Project Overview
-This project focuses on predicting **crop production in India** using historical agricultural data and machine learning techniques. The goal is to identify the most effective regression model for predicting crop production based on factors like **State, District, Crop, Season, Area, and Year**.
+Agriculture is a key sector in when it comes to our country, and predicting crop production can help optimize **resource allocation, yield forecasting, and policy-making**. In this project, I used historical crop production data to build **predictive models** that estimate crop yield and production based on features like **State, District, Crop, Season, Area, and Year**.
 
 Accurate crop prediction can help in **agriculture planning, resource optimization, and policy-making**.
 
@@ -11,7 +11,7 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 - **Source:** Kaggle – Agriculture Crops Production in India  
 - **Rows:** 345,407  
 - **Columns:** 10  
-- **Target Variable:** `Production`
+- **Target Variable:** `Yield`
 
 ### Key Features:
 - `State_Name` – State of cultivation  
