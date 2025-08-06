@@ -25,9 +25,10 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 ---
 
 ## ✅ Project Workflow
-1. **Data Cleaning**
-   - Checked for missing values
-   - Handled null values in categorical & numeric columns using `SimpleImputer`
+1. **Dataset Overview**
+   - Read Dataset
+   - Display first 5 rows
+   - Shape & Structure
 2. **Exploratory Data Analysis (EDA)**
    - Correlation heatmap of numerical features
    - Production distribution analysis
