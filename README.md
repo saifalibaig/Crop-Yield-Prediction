@@ -82,9 +82,8 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 ---
 
 ## 🌍 Real-World Applications
-- Agricultural policy-making and resource allocation
-- Yield forecasting for supply chain optimization
-- Farmer advisory systems for crop planning
+- Assisting **farmers and policymakers** in making informed decisions on crop planning.
+- Optimizing **resource allocation** based on expected production.
 
 ---
 
