@@ -30,12 +30,13 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
    - Display first 5 rows
    - Shape & Structure
 2. **Exploratory Data Analysis (EDA)**
+   - Null value analysis
    - Correlation heatmap of numerical features
+   - ANOVA test for categorical columns
    - Production distribution analysis
    - Top crops by production
    - District-wise and season-wise crop production
-3. **Feature Engineering**
-   - ANOVA test for categorical columns
+3. **Data Preprocessing**
    - One-hot encoding for low-cardinality variables
    - Frequency encoding for high-cardinality variables
 4. **Model Development**
