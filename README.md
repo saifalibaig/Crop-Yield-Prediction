@@ -57,8 +57,8 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 |-----------------------|-----------|--------------|
 | Linear Regression     | ~0.79    | Baseline |
 | Ridge Regression      | ~0.79    | Similar to LR |
-| Lasso Regression      | ~0.78    | Similar to Ridge |
-| **XGBoost Regressor** | **0.89** | Best performing model |
+| Lasso Regression      | ~0.79    | Similar to Ridge |
+| **XGBoost Regressor** | **0.945** | Best performing model |
 
 ---
 
