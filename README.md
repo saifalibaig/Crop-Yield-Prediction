@@ -89,14 +89,8 @@ Accurate crop prediction can help in **agriculture planning, resource optimizati
 ---
 
 ## 🚀 Future Enhancements
-- Include **weather, rainfall, and soil data** for improved accuracy.
-- Test advanced models like **LightGBM and CatBoost**.
-- Build a **Streamlit/Flask dashboard** for real-time predictions.
-- Deploy as an API or integrate with mobile apps for farmers.
+- Incorporate **weather and soil data** for better accuracy.
+- Deploy the model using **Flask, FastAPI, or Streamlit** for real-time prediction.
+- Build a **dashboard for visualization and decision support**.
 
 ---
-
-## 🛠 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/crop-yield-prediction.git
